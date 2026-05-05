@@ -200,6 +200,26 @@ export const PROJECTS = [
     repo: "https://github.com/Sebas30/TI-PAGE",
     color: "cyan",
   },
+  {
+    id: 8,
+    title: "Plataforma de Streaming en Vivo",
+    tagline: "Streaming en vivo con WebRTC y latencia ultra baja (~1s).",
+    category: "Streaming • WebRTC",
+    year: "2026",
+    status: "Funcional",
+    description: "Plataforma de streaming en vivo peer-to-peer con latencia ultra baja (~1s) utilizando WebRTC. Permite transmisión de video en tiempo real con controles avanzados de cámara/micrófono, contador de espectadores y gestión de múltiples streams simultáneos.",
+    highlights: [
+      "Latencia ultra baja con WebRTC peer-to-peer",
+      "Backend de alto rendimiento en Go con WebSocket",
+      "Control en tiempo real de cámara y micrófono",
+      "Interfaz moderna con Tailwind CSS y React",
+      "Gestión de múltiples streams simultáneos",
+      "Lista de streams activos en tiempo real",
+    ],
+    stack: ["Go", "React", "WebRTC", "Tailwind CSS", "Vite", "WebSocket", "Pion WebRTC"],
+    repo: "https://github.com/Sebas30/streaming-platform",
+    color: "red",
+  }
 ];
 
 export const EXPERIENCE = [
