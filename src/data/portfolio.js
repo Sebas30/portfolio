@@ -201,7 +201,7 @@ export const PROJECTS = [
     color: "cyan",
   },
   {
-    id: 8,
+    id: 9,
     title: "Plataforma de Streaming en Vivo",
     tagline: "Streaming en vivo con WebRTC y latencia ultra baja (~1s).",
     category: "Streaming • WebRTC",
