@@ -192,7 +192,7 @@ Grays: Del 50 al 900
 - GitHub: [@Sebas30](https://github.com/Sebas30)
 - LinkedIn: [sebastian-alvarez-barona](https://www.linkedin.com/in/sebastian-alvarez-barona-04041719b/)
 - Email: alvarezbaronasebastian@hotmail.com
-- Teléfono: +57 301 454 9436
+- Teléfono: +57 322 7681990
 
 ---
 

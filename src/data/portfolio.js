@@ -4,7 +4,7 @@ export const PROFILE = {
   role: "Desarrollador Fullstack",
   location: "Medellín, Colombia",
   email: "alvarezbaronasebastian@hotmail.com",
-  phone: "+57 301 454 9436",
+  phone: "+57 322 7681990",
   github: "https://github.com/Sebas30",
   linkedin: "https://www.linkedin.com/in/sebastian-alvarez-barona-04041719b/",
   bio: "Construyo software que resuelve problemas reales. Especializado en APIs robustas, arquitecturas escalables y experiencias de usuario fluidas.",
